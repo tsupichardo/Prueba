@@ -1,4 +1,0 @@
-Prueba
-======
-
-PRueba de configuracion
